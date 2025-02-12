@@ -1,0 +1,8 @@
+Dano, Raizel Faith - Bohol Island State University
+Web Fundamentals > HTML > Survey Form
+Reflection and comments.
+
+The task is easy but I took breaks in between cause I couldn't do it in one sitting so it probably took me an hour or 2 including the breaks. 
+
+One challenge I faced during the activity was properly structuring the form elements, such as aligning radio buttons before the choices and placing questions inside a box. I initially struggled with positioning but resolved it by using the <fieldset> and <legend> tags to group related inputs.
+
