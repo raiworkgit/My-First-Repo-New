@@ -1,0 +1,5 @@
+Dano, Raizel Faith - Bohol Island State University
+Web Fundamentals > HTML > Portfolio
+Reflection and comments.
+
+While working on my portfolio webpage, I encountered a few small errors that I initially overlooked. After running my code through an HTML checker three times, I was able to identify and fix issues such as missing or incorrect attributes and minor syntax mistakes. These runs helped me improve my attention to detail and reinforced the importance of validating my code. This process allowed me to refine my HTML structure, making it more organized and accessible. It was a great learning experience that highlighted the value of careful debugging and continuous improvement.
