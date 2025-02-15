@@ -1,0 +1,127 @@
+
+body{
+    /*background-image:url("finalbg.jpg");*/
+    background-image: url("finalbg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family:Arial, Helvetica, sans-serif;}
+
+/*main-/*/
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 30px;
+    margin-top: auto;
+}
+
+.about-me{
+    text-align: center;
+    padding: 20px;}
+.about-content img {
+    width: 100%;
+    display: flex;
+    max-width: 1000px;
+    margin:auto;
+    align-items: center;}
+.about-content p{
+    width: 100%;
+    max-width: 100%;
+    color:black;
+    text-align: center;
+    font-size: 50px;}
+    
+
+h1{
+    font: size 80px;
+    font-weight: bold;
+    color: #4308b9;
+}
+
+h2{
+    font: size 150px;
+    font-weight:bold;
+    color: #4308b9;
+    ;
+}
+
+h3{
+    font: size 100px;
+    font-weight:lighter;
+    color: black;
+    ;
+}
+
+fieldset {
+    display: block;
+    min-inline-size: min-content;
+    margin-inline: 2px;
+    border-width: 2px;
+    border-style: groove;
+    border-color: b;
+    border-image: initial;
+    padding-block: 0.35em 0.625em;
+    padding-inline: 0.75em;
+}
+
+/* navigation bar styling */
+nav ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+    padding: 10px 0;
+}
+
+
+li{
+    display: inline;
+    margin: 0 15px;
+}
+
+/* table styling */
+table{
+    width: 95%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1.5px solid black;
+    padding: 10px;
+}
+
+th{
+    color: black;
+}
+
+section{
+    padding: 20px;
+    margin-bottom: auto;
+    border-radius: 10px;
+    box-shadow: tomato;
+    color: black;
+}
+
+/* Submit button */
+button{
+    padding: 10px 15px;
+    border: 1px;
+    font-size: 16px;
+    border-radius: 40px;
+    color:#5e17eb;
+    cursor: pointer;
+    background-color: #f5f5f5;
+}
+
+button:hover{
+    background-color: #5e17eb;
+    color: white;
+}
+
+footer{
+    padding: 10px;
+    margin-top: 20px;
+}
