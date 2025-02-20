@@ -1,0 +1,9 @@
+Dano, Raizel Faith - Bohol Island State University
+Web Fundamentals > CSS > Netflix
+Reflection and comments.
+
+Recreating the Netflix landing page was both a challenging and rewarding experience. It took me half a day to build the layout, ensuring that every element was properly structured and visually appealing. Through this process, I was able to strengthen my HTML and CSS skills, particularly in structuring sections, positioning elements, and improving code readability with proper indentation.
+
+One of the challenges I faced was aligning elements correctly and making sure the design closely resembled the original layout. I also had to pay attention to small details, such as proper spacing, text hierarchy, and button placements, to maintain a clean and professional look. Debugging minor errors, like misplaced closing tags and inconsistent indentation, also helped me develop a more meticulous approach to coding.
+
+This exercise was a great learning experience that helped me apply and refine my web development skills. Seeing the final output was satisfying, and it motivated me to continue improving my front-end development abilities.
