@@ -1,7 +1,0 @@
-Dano, Raizel Faith - Bohol Island State University
-Web Fundamentals > CSS > Bootstrap
-Reflection and comments.
-
-Recreating Bootstrap from scratch was a challenging yet rewarding experience. It took me around 3-4 hours to go through the process, carefully analyzing Bootstrap's structure and rebuilding its styles using CSS. This task helped me deepen my understanding of responsive design, flexbox, and utility classes, as I had to replicate how Bootstrap handles spacing, typography, and layout components.  
-
-One of the most insightful parts of this exercise was breaking down how Bootstrap's grid system works. By manually implementing similar spacing, margins, and paddings, I gained a better appreciation for how CSS frameworks simplify web development. While it took time to fine-tune everything, the hands-on experience reinforced my ability to create structured, scalable, and maintainable styles without relying on pre-built frameworks.
