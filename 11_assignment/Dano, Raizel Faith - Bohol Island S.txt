@@ -1,0 +1,7 @@
+Dano, Raizel Faith - Bohol Island State University
+Web Fundamentals > CSS > To-Do-list
+Reflection and comments.
+
+The recreation process was relatively straightforward, though there were a couple of interesting challenges worth noting. the choice to use <ul> and <li> for tasks made much more sense semantically than the original div-based approach. Getting the exact shade of blue for the header and the light blue/green for the tasks took some trial and error, settling on #0074cc for the header and #e1f5fe for the task backgrounds. One subtle detail was matching the input field's border radius with the button while maintaining a seamless connection between them. 
+
+The implementation took about 2-3 hours, with most of that time spent on fine-tuning the styling to match the original design closely. The biggest challenge wasn't in the coding itself but in making thoughtful decisions about semantic HTML structure while maintaining the exact same visual appearance.
