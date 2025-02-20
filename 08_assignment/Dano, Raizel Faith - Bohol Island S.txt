@@ -1,0 +1,15 @@
+Dano, Raizel Faith - Bohol Island State University
+Web Fundamentals > HTML > Flexbox
+Reflection and comments.
+
+
+Learning Flexbox has been a game-changer in understanding how to structure and position elements efficiently on a webpage. It simplifies layout design by allowing elements to align, distribute, and resize dynamically based on the available space. At first, it was challenging to grasp properties like `flex-grow`, `flex-shrink`, and `justify-content`, but through practice, I became more comfortable using them.  
+
+This activity took me longer than expected because I took breaks and explored different ways to apply Flexbox. But seeing how easily I can create responsive layouts without using floats or positioning makes the effort worthwhile. I aim to refine my skills and explore CSS Grid for more complex designs.
+
+
+
+
+
+
+
