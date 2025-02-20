@@ -1,0 +1,8 @@
+Dano, Raizel Faith - Bohol Island State University
+Web Fundamentals > HTML > Flexbox II
+Reflection and comments.
+
+
+In this activity, I applied my knowledge of Flexbox to structure elements efficiently. I focused on aligning boxes properly, adding gaps to prevent elements from sticking together, and ensuring that the layout remained responsive. One of the key takeaways was understanding how `flex-wrap` helps maintain readability on different screen sizes.  
+
+At first, adjusting the `gap` and making `aside` and `section` align side by side required some trial and error. However, by experimenting with properties like `align-items` and `justify-content`, I managed to create a well-structured layout. This activity reinforced the importance of Flexbox in modern web design, and I look forward to using it in more projects.
