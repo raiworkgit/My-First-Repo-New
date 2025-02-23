@@ -1,0 +1,12 @@
+Dano, Raizel Faith - Bohol Island State University
+Web Fundamentals > CSS > Stack Overflow
+Reflection and comments.
+
+
+Working on this project took quite a bit of time—longer than I initially expected. At first, everything seemed straightforward, but as I got deeper into the details (like ensuring proper indentation, aligning elements, and making the styles look just right), I realized there were a lot of small things that required tweaking.
+
+One of the more challenging parts was aligning elements properly, especially making sure that everything looked clean and balanced. CSS can be tricky when it comes to positioning and spacing, and sometimes a small misalignment can throw everything off. 
+
+This task took me a few hours, with some moments of frustration when things didn’t align as expected. But honestly, seeing the final result was satisfying. It reminded me that patience is key when working with frontend development and sometimes the smallest adjustments make the biggest difference.
+
+If I had to do it again, I’d probably plan out the structure more before jumping into coding. But for now, I’m happy with the progress and what I learned along the way! 
